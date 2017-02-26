@@ -1,0 +1,73 @@
+{
+  "booklistCollection": [
+    {
+      "id": "01",
+      "title": "HTML Learning Resources",
+      "sources": 3,
+      "bookmarks": [
+        {
+          "id": "04",
+          "link": "http://www.codecademy.com/skills/make-a-website",
+          "website": "Codecademy",
+          "genre": "Guides and Tutorials"
+        },
+        {
+          "id": "05",
+          "link": "http://learn.shayhowe.com/html-css/",
+          "website": "Learn to Code HTML & CSS",
+          "genre": "Guides and Tutorials"
+        },
+        {
+          "id": "06",
+          "link": "http://websitesetup.org/html5-beginners-guide/",
+          "website": "HTML5 Beginner's Guide",
+          "genre": "Guides and Tutorials"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "CSS Learning Resources",
+      "sources": 3,
+      "bookmarks": [
+        {
+          "id": "07",
+          "link": "http://www.csstutorial.net/",
+          "website": "CSS Tutorial",
+          "genre": "Guides and Tutorials"
+        },
+        {
+          "id": "08",
+          "link": "https://www.codecademy.com/learn/web",
+          "website": "Codecademy",
+          "genre": "Guides and Tutorials"
+        },
+        {
+          "id": "09",
+          "link": "https://www.w3.org/Style/CSS/learning.en.html",
+          "website": "Learn CSS - W3C",
+          "genre": "Guide & Tutorials"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Javascript Learning Resources",
+      "sources": 2,
+      "bookmarks": [
+        {
+          "id": "10",
+          "link": "https://www.codeschool.com/courses/javascript-road-trip-part-1",
+          "website": "Beginner JavaScript Tutorial | Code School",
+          "genre": "Guides & Tutorials"
+        },
+        {
+          "id": "11",
+          "link": "https://www.codecademy.com/learn/javascript",
+          "website": "Learn JavaScript | Codecademy",
+          "genre": "Guides & Tutorials"
+        }
+      ]
+    }
+  ]
+}
