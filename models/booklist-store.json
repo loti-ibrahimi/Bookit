@@ -1,71 +1,60 @@
 {
   "booklistCollection": [
     {
-      "id": "01",
+      "id": "c97d088b-fc4d-46b7-90c3-c54e21597984",
       "title": "HTML Learning Resources",
-      "sources": 3,
       "bookmarks": [
         {
-          "id": "04",
+          "id": "8cdc7f2d-0c31-4d2b-aa0c-668e88b0efc3",
           "link": "http://www.codecademy.com/skills/make-a-website",
-          "website": "Codecademy",
-          "genre": "Guides and Tutorials"
+          "website": "Codecademy"
         },
         {
-          "id": "05",
+          "id": "69209673-b732-40b0-89c2-b5927b431481",
           "link": "http://learn.shayhowe.com/html-css/",
-          "website": "Learn to Code HTML & CSS",
-          "genre": "Guides and Tutorials"
+          "website": "Learn to Code HTML & CSS"
         },
         {
-          "id": "06",
+          "id": "ab439063-d539-48c4-b907-53b1af4d9f70",
           "link": "http://websitesetup.org/html5-beginners-guide/",
-          "website": "HTML5 Beginner's Guide",
-          "genre": "Guides and Tutorials"
+          "website": "HTML5 Beginner's Guide"
         }
       ]
     },
     {
-      "id": "02",
-      "title": "CSS Learning Resources",
-      "sources": 3,
+      "id": "843b308c-66b6-4c47-ad00-23fb1190cb4d",
+      "title": "CSS Learning Resources ",
       "bookmarks": [
         {
-          "id": "07",
-          "link": "http://www.csstutorial.net/",
-          "website": "CSS Tutorial",
-          "genre": "Guides and Tutorials"
-        },
-        {
-          "id": "08",
-          "link": "https://www.codecademy.com/learn/web",
-          "website": "Codecademy",
-          "genre": "Guides and Tutorials"
-        },
-        {
-          "id": "09",
+          "id": "53a203f9-26ac-4924-905e-8cfc6b672367",
           "link": "https://www.w3.org/Style/CSS/learning.en.html",
-          "website": "Learn CSS - W3C",
-          "genre": "Guide & Tutorials"
+          "website": "Learning CSS -W3C"
+        },
+        {
+          "id": "c5888895-daeb-4a1d-b74a-980051737a5f",
+          "link": "http://www.csstutorial.net/",
+          "website": "CSS Tutorial"
+        },
+        {
+          "id": "420bf8b0-e6c6-4a17-b6fd-2f49e67a86ff",
+          "link": "http://learnlayout.com/",
+          "website": "Learn CSS Layout"
         }
       ]
     },
     {
-      "id": "03",
-      "title": "Javascript Learning Resources",
-      "sources": 2,
+      "id": "4d8058ac-b06d-4f30-a442-5f875cc9b304",
+      "title": "Javascript Learning Resources ",
       "bookmarks": [
         {
-          "id": "10",
-          "link": "https://www.codeschool.com/courses/javascript-road-trip-part-1",
-          "website": "Beginner JavaScript Tutorial | Code School",
-          "genre": "Guides & Tutorials"
+          "id": "7a80ffc3-811e-409d-9a87-7a97ade3a3bc",
+          "link": "https://www.codecademy.com/learn/javascript",
+          "website": "Javascript | Codecademy"
         },
         {
-          "id": "11",
-          "link": "https://www.codecademy.com/learn/javascript",
-          "website": "Learn JavaScript | Codecademy",
-          "genre": "Guides & Tutorials"
+          "id": "f4513086-a3f9-48ac-ae78-1d80c59bb0a8",
+          "link": "https://www.w3schools.com/js/",
+          "website": "Javascript Tutorial - W3C"
         }
       ]
     }
